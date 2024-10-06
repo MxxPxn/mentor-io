@@ -106,6 +106,7 @@ body {
   max-width: 320px;
   max-height: 499px;
   background-color: #fff;
+  margin-top: 200px;
 }
 .card__image {
   margin: 20px;
