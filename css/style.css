@@ -156,6 +156,7 @@ body {
     max-height: 500px;
   }
   .card {
+    margin-top: 0px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -170,13 +171,15 @@ body {
     max-height: auto;
   }
   .card__text h1 {
-    font-size: 12px;
-    padding: 0 20px;
+    font-size: 16px;
+    padding: 0 15px 0 15px;
+    line-height: 20px;
   }
   .card__text p {
     margin-top: 10px;
     margin-bottom: 20px;
     line-height: 20px;
     font-size: 12px;
+    padding: 0 20px 0 20px;
   }
 }
